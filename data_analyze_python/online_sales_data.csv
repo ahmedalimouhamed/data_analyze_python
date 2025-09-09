@@ -1,0 +1,501 @@
+order_id,date,product,category,quantity,unit_price,region,payment_method,customer_type,rating,total_sales
+1000,2023-07-11,Smart TV,TV,1,793.21,Australia,PayPal,New,5,793.21
+1001,2023-09-22,PlayStation 5,Gaming,1,503.31,Australia,PayPal,New,3,503.31
+1002,2023-07-24,Headphones,Audio,1,216.89,South America,Apple Pay,Returning,3,216.89
+1003,2023-07-10,Ninteno Switch,Gaming,2,290.57,North America,Google Pay,Returning,4,581.14
+1004,2023-08-15,AirPods Pro,Audio,1,270.9,Australia,Apple Pay,Returning,5,270.9
+1005,2023-08-17,Keyboard,Accessories,3,92.07,North America,Credit Card,New,4,276.21
+1006,2023-05-26,iphone 13,Mobile,1,1005.54,Asia,Google Pay,New,4,1005.54
+1007,2023-05-07,Speaker,Audio,2,156.19,Europe,Google Pay,Returning,4,312.38
+1008,2023-09-01,Webcam,Accessories,2,89.49,Europe,Credit Card,Returning,4,178.98
+1009,2023-04-20,iphone 13,Mobile,2,1096.41,Europe,Credit Card,Returning,3,2192.82
+1010,2023-01-26,Xbox series X,Gaming,1,540.12,Australia,Google Pay,New,4,540.12
+1011,2023-10-01,Speaker,Audio,1,149.94,Europe,Apple Pay,Returning,4,149.94
+1012,2023-02-20,Webcam,Accessories,3,89.26,South America,Credit Card,New,3,267.78
+1013,2023-10-26,Smart TV,TV,1,753.87,Australia,Apple Pay,Returning,3,753.87
+1014,2023-01-11,PlayStation 5,Gaming,2,546.03,Australia,Credit Card,Returning,3,1092.05
+1015,2023-01-27,Keyboard,Accessories,1,92.71,South America,Apple Pay,Returning,3,92.71
+1016,2023-04-13,Smart TV,TV,2,797.15,Australia,Google Pay,Returning,4,1594.31
+1017,2023-11-19,ipad Air,Tablet,1,648.43,South America,Apple Pay,Returning,4,648.43
+1018,2023-03-04,Sasung Galaxy,Mobile,1,984.16,Australia,Apple Pay,VIP,5,984.16
+1019,2023-10-03,Headphones,Audio,2,201.7,Europe,PayPal,VIP,4,403.39
+1020,2023-02-04,PlayStation 5,Gaming,1,488.66,Europe,Apple Pay,Returning,3,488.66
+1021,2023-11-21,Xbox series X,Gaming,2,517.63,Australia,Apple Pay,New,5,1035.26
+1022,2023-08-27,iphone 13,Mobile,1,959.53,Australia,Google Pay,Returning,3,959.53
+1023,2023-09-08,ipad Air,Tablet,2,551.86,Europe,PayPal,Returning,4,1103.73
+1024,2023-02-04,Headphones,Audio,1,180.23,Europe,Google Pay,Returning,3,180.23
+1025,2023-10-10,Headphones,Audio,1,179.45,North America,PayPal,Returning,5,179.45
+1026,2023-05-05,AirPods Pro,Audio,1,270.9,North America,Google Pay,New,4,270.9
+1027,2023-11-16,Xbox series X,Gaming,2,516.96,South America,PayPal,New,4,1033.92
+1028,2023-10-16,Headphones,Audio,1,181.99,Europe,Google Pay,Returning,5,181.99
+1029,2023-04-26,PlayStation 5,Gaming,1,480.85,North America,Google Pay,Returning,4,480.85
+1030,2023-01-10,Monitor,Computer,2,312.43,North America,PayPal,New,5,624.86
+1031,2023-10-09,Smart TV,TV,2,750.88,North America,Credit Card,Returning,3,1501.77
+1032,2023-07-08,Mouse,Accessories,2,60.92,South America,PayPal,Returning,5,121.83
+1033,2023-05-07,ipad Air,Tablet,2,554.58,South America,Apple Pay,VIP,5,1109.16
+1034,2023-02-27,Xbox series X,Gaming,2,547.97,North America,PayPal,Returning,3,1095.94
+1035,2023-10-10,Keyboard,Accessories,3,82.08,Australia,Google Pay,Returning,5,246.23
+1036,2023-10-16,MacBook pro,Laptop,1,1928.17,Asia,Credit Card,Returning,5,1928.17
+1037,2023-11-17,Smart TV,TV,2,858.13,Europe,Google Pay,Returning,3,1716.27
+1038,2023-09-18,Xbox series X,Gaming,2,514.5,Asia,PayPal,Returning,3,1029.0
+1039,2023-04-25,MacBook pro,Laptop,2,1982.68,Asia,Google Pay,Returning,4,3965.35
+1040,2023-06-22,Sasung Galaxy,Mobile,1,883.49,Europe,Apple Pay,Returning,5,883.49
+1041,2023-12-22,Keyboard,Accessories,3,80.94,Australia,Credit Card,New,5,242.82
+1042,2023-02-04,Headphones,Audio,2,188.69,Asia,Google Pay,Returning,3,377.37
+1043,2023-12-26,Ninteno Switch,Gaming,2,290.42,Asia,Credit Card,Returning,5,580.83
+1044,2023-02-23,AirPods Pro,Audio,2,248.67,South America,Google Pay,Returning,4,497.34
+1045,2023-09-28,Xbox series X,Gaming,2,483.51,Asia,Apple Pay,New,5,967.01
+1046,2023-03-17,ipad Air,Tablet,1,545.69,Asia,Credit Card,New,5,545.69
+1047,2023-04-17,AirPods Pro,Audio,2,231.25,Australia,Google Pay,Returning,3,462.49
+1048,2023-06-21,iphone 13,Mobile,2,907.92,North America,Credit Card,Returning,5,1815.83
+1049,2023-05-24,Sasung Galaxy,Mobile,2,899.75,Asia,Google Pay,VIP,3,1799.5
+1050,2023-06-22,PlayStation 5,Gaming,2,499.47,North America,Apple Pay,Returning,5,998.95
+1051,2023-04-16,Sasung Galaxy,Mobile,1,966.5,South America,PayPal,New,4,966.5
+1052,2023-04-15,ipad Air,Tablet,2,612.44,Australia,Apple Pay,Returning,4,1224.88
+1053,2023-06-19,Speaker,Audio,2,150.72,Australia,Credit Card,Returning,3,301.44
+1054,2023-09-20,Mouse,Accessories,2,60.44,South America,PayPal,Returning,5,120.88
+1055,2023-04-27,MacBook pro,Laptop,2,1853.74,Australia,PayPal,Returning,4,3707.48
+1056,2023-12-16,Keyboard,Accessories,2,96.04,Australia,Google Pay,VIP,5,192.08
+1057,2023-03-15,Headphones,Audio,1,186.22,Australia,Apple Pay,Returning,3,186.22
+1058,2023-11-20,Ninteno Switch,Gaming,2,307.7,Australia,Credit Card,Returning,4,615.39
+1059,2023-11-21,AirPods Pro,Audio,1,259.24,Asia,Google Pay,Returning,4,259.24
+1060,2023-06-08,Xbox series X,Gaming,2,482.75,North America,Google Pay,New,3,965.49
+1061,2023-03-27,MacBook pro,Laptop,2,1923.92,North America,Apple Pay,VIP,5,3847.85
+1062,2023-09-15,Smart TV,TV,2,803.52,South America,Apple Pay,New,3,1607.04
+1063,2023-03-25,Smart TV,TV,1,770.87,North America,PayPal,Returning,3,770.87
+1064,2023-08-05,Speaker,Audio,2,134.65,South America,Apple Pay,New,4,269.29
+1065,2023-04-27,Webcam,Accessories,1,98.72,Asia,Apple Pay,Returning,3,98.72
+1066,2023-07-13,Ninteno Switch,Gaming,2,288.93,North America,PayPal,Returning,4,577.86
+1067,2023-12-19,Sasung Galaxy,Mobile,2,834.49,Europe,PayPal,Returning,4,1668.98
+1068,2023-02-11,Smart TV,TV,1,864.56,Asia,Apple Pay,Returning,4,864.56
+1069,2023-07-28,Sasung Galaxy,Mobile,2,959.54,South America,Credit Card,New,4,1919.07
+1070,2023-12-08,AirPods Pro,Audio,2,270.18,South America,Apple Pay,New,4,540.36
+1071,2023-02-05,AirPods Pro,Audio,1,256.04,Europe,Google Pay,Returning,4,256.04
+1072,2023-01-18,ipad Air,Tablet,1,555.12,South America,Apple Pay,Returning,5,555.12
+1073,2023-10-03,Ninteno Switch,Gaming,1,296.4,Australia,Credit Card,Returning,3,296.4
+1074,2023-02-16,Smart TV,TV,2,854.36,North America,Google Pay,New,5,1708.71
+1075,2023-08-13,PlayStation 5,Gaming,2,542.15,Australia,Apple Pay,New,5,1084.29
+1076,2023-05-14,Headphones,Audio,1,182.14,Australia,PayPal,New,3,182.14
+1077,2023-01-27,Mouse,Accessories,1,61.92,North America,PayPal,Returning,4,61.92
+1078,2023-07-14,Webcam,Accessories,3,95.45,North America,PayPal,Returning,4,286.34
+1079,2023-01-06,iphone 13,Mobile,1,1010.85,South America,Apple Pay,New,3,1010.85
+1080,2023-12-15,PlayStation 5,Gaming,2,464.56,North America,Google Pay,New,5,929.13
+1081,2023-08-06,MacBook pro,Laptop,2,2161.37,North America,Google Pay,Returning,4,4322.74
+1082,2023-09-27,ipad Air,Tablet,2,586.92,South America,Credit Card,VIP,3,1173.85
+1083,2023-02-06,Webcam,Accessories,3,107.89,Asia,PayPal,Returning,3,323.68
+1084,2023-03-07,MacBook pro,Laptop,2,1830.46,North America,Apple Pay,New,5,3660.93
+1085,2023-06-23,Webcam,Accessories,1,89.5,Australia,Apple Pay,VIP,3,89.5
+1086,2023-04-17,AirPods Pro,Audio,2,268.92,Europe,PayPal,VIP,3,537.84
+1087,2023-12-21,Webcam,Accessories,1,93.99,North America,Credit Card,Returning,4,93.99
+1088,2023-04-05,ipad Air,Tablet,2,596.19,Asia,Apple Pay,Returning,4,1192.38
+1089,2023-12-13,Xbox series X,Gaming,2,482.82,Australia,Credit Card,Returning,5,965.65
+1090,2023-05-26,Ninteno Switch,Gaming,2,322.34,North America,Apple Pay,New,5,644.69
+1091,2023-10-26,Speaker,Audio,2,159.87,South America,PayPal,Returning,4,319.75
+1092,2023-01-11,Headphones,Audio,2,195.52,North America,PayPal,Returning,5,391.04
+1093,2023-03-17,Keyboard,Accessories,2,89.52,Asia,Credit Card,New,5,179.03
+1094,2023-07-13,Xbox series X,Gaming,1,538.73,Asia,PayPal,New,5,538.73
+1095,2023-02-22,Mouse,Accessories,2,64.71,Europe,Apple Pay,New,3,129.42
+1096,2023-10-12,Headphones,Audio,2,214.33,Asia,Credit Card,Returning,5,428.66
+1097,2023-06-13,Sasung Galaxy,Mobile,2,821.52,Australia,Google Pay,Returning,5,1643.04
+1098,2023-07-01,Headphones,Audio,1,213.25,Europe,Apple Pay,VIP,3,213.25
+1099,2023-08-19,Mouse,Accessories,2,56.35,Australia,Credit Card,Returning,4,112.7
+1100,2023-10-10,PlayStation 5,Gaming,2,475.91,North America,Apple Pay,New,3,951.82
+1101,2023-06-13,Keyboard,Accessories,1,87.53,Europe,Credit Card,New,4,87.53
+1102,2023-12-23,MacBook pro,Laptop,1,1872.58,Europe,Google Pay,Returning,3,1872.58
+1103,2023-10-08,Smart TV,TV,1,759.29,South America,Apple Pay,Returning,5,759.29
+1104,2023-11-19,Keyboard,Accessories,1,95.97,North America,PayPal,New,5,95.97
+1105,2023-11-07,Smart TV,TV,1,817.45,South America,Apple Pay,Returning,4,817.45
+1106,2023-03-21,Monitor,Computer,1,288.08,North America,Credit Card,Returning,4,288.08
+1107,2023-12-19,Mouse,Accessories,3,53.86,Australia,PayPal,Returning,5,161.57
+1108,2023-09-02,Ninteno Switch,Gaming,2,328.28,Europe,Google Pay,Returning,5,656.57
+1109,2023-02-27,Headphones,Audio,2,213.5,South America,Credit Card,Returning,4,427.01
+1110,2023-02-26,Webcam,Accessories,1,95.6,North America,Credit Card,New,3,95.6
+1111,2023-07-16,AirPods Pro,Audio,1,252.58,Europe,PayPal,Returning,5,252.58
+1112,2023-11-09,ipad Air,Tablet,2,545.39,Asia,Credit Card,New,5,1090.78
+1113,2023-05-09,Ninteno Switch,Gaming,2,291.28,Australia,Apple Pay,Returning,4,582.56
+1114,2023-10-25,MacBook pro,Laptop,1,2011.28,Asia,PayPal,Returning,4,2011.28
+1115,2023-04-13,Sasung Galaxy,Mobile,1,942.35,South America,Apple Pay,New,5,942.35
+1116,2023-12-13,Smart TV,TV,2,800.01,North America,Credit Card,Returning,3,1600.03
+1117,2023-04-15,Keyboard,Accessories,2,84.74,South America,Google Pay,VIP,3,169.49
+1118,2023-01-26,MacBook pro,Laptop,2,1851.36,Asia,Credit Card,Returning,4,3702.72
+1119,2023-06-24,iphone 13,Mobile,1,1026.07,Europe,Credit Card,Returning,5,1026.07
+1120,2023-02-23,Sasung Galaxy,Mobile,1,856.05,Australia,PayPal,New,4,856.05
+1121,2023-08-04,PlayStation 5,Gaming,1,512.98,Europe,PayPal,New,3,512.98
+1122,2023-05-27,ipad Air,Tablet,1,576.2,Asia,PayPal,Returning,4,576.2
+1123,2023-12-26,ipad Air,Tablet,2,549.66,Australia,PayPal,Returning,5,1099.32
+1124,2023-08-09,ipad Air,Tablet,1,585.94,Europe,Google Pay,New,5,585.94
+1125,2023-10-20,iphone 13,Mobile,1,1021.93,Australia,PayPal,Returning,3,1021.93
+1126,2023-10-13,PlayStation 5,Gaming,2,515.04,Asia,PayPal,Returning,4,1030.08
+1127,2023-01-28,Webcam,Accessories,1,97.07,Australia,Credit Card,Returning,5,97.07
+1128,2023-11-10,iphone 13,Mobile,2,1056.99,Asia,Google Pay,New,4,2113.97
+1129,2023-02-26,ipad Air,Tablet,2,622.33,North America,Google Pay,New,3,1244.66
+1130,2023-01-06,AirPods Pro,Audio,2,247.24,Asia,Google Pay,VIP,3,494.49
+1131,2023-03-23,Smart TV,TV,1,764.88,Europe,Google Pay,Returning,3,764.88
+1132,2023-05-11,PlayStation 5,Gaming,2,547.33,North America,Google Pay,New,3,1094.66
+1133,2023-11-03,ipad Air,Tablet,2,571.6,Asia,PayPal,New,4,1143.2
+1134,2023-01-01,Mouse,Accessories,2,62.44,North America,Credit Card,Returning,5,124.88
+1135,2023-08-10,iphone 13,Mobile,2,1077.86,North America,Google Pay,Returning,3,2155.71
+1136,2023-04-05,Ninteno Switch,Gaming,2,298.61,Asia,Google Pay,Returning,5,597.21
+1137,2023-11-19,Keyboard,Accessories,2,95.32,Europe,Credit Card,VIP,4,190.64
+1138,2023-01-12,PlayStation 5,Gaming,2,511.03,Asia,PayPal,Returning,3,1022.06
+1139,2023-06-21,Xbox series X,Gaming,1,493.03,North America,Apple Pay,Returning,5,493.03
+1140,2023-08-09,MacBook pro,Laptop,2,1953.52,South America,Google Pay,Returning,5,3907.03
+1141,2023-03-20,ipad Air,Tablet,1,561.25,North America,PayPal,New,5,561.25
+1142,2023-09-23,MacBook pro,Laptop,2,1809.11,South America,Credit Card,Returning,3,3618.22
+1143,2023-10-16,Mouse,Accessories,1,58.83,Europe,Apple Pay,New,4,58.83
+1144,2023-05-14,PlayStation 5,Gaming,1,471.73,North America,Apple Pay,New,3,471.73
+1145,2023-07-03,Monitor,Computer,1,285.86,South America,PayPal,New,3,285.86
+1146,2023-08-16,Mouse,Accessories,1,64.76,North America,Credit Card,Returning,4,64.76
+1147,2023-04-01,Ninteno Switch,Gaming,1,318.73,South America,PayPal,Returning,5,318.73
+1148,2023-10-27,Headphones,Audio,1,191.49,North America,PayPal,Returning,4,191.49
+1149,2023-06-28,Mouse,Accessories,1,58.57,Asia,PayPal,Returning,5,58.57
+1150,2023-12-22,Xbox series X,Gaming,2,542.0,Australia,PayPal,New,5,1084.0
+1151,2023-09-01,Mouse,Accessories,2,63.79,South America,Apple Pay,Returning,5,127.58
+1152,2023-07-17,Mouse,Accessories,3,62.59,Australia,PayPal,Returning,4,187.77
+1153,2023-05-09,Headphones,Audio,1,189.69,Asia,Credit Card,Returning,4,189.69
+1154,2023-10-04,MacBook pro,Laptop,1,2152.84,South America,Google Pay,VIP,5,2152.84
+1155,2023-10-13,Speaker,Audio,2,146.42,Europe,Credit Card,VIP,5,292.84
+1156,2023-03-19,Mouse,Accessories,2,64.89,Europe,Apple Pay,New,5,129.79
+1157,2023-08-05,iphone 13,Mobile,2,1014.75,Asia,PayPal,Returning,3,2029.5
+1158,2023-08-25,Mouse,Accessories,3,62.67,Asia,Google Pay,Returning,4,188.01
+1159,2023-06-06,ipad Air,Tablet,2,644.58,South America,Credit Card,VIP,5,1289.15
+1160,2023-01-12,iphone 13,Mobile,1,1032.64,Asia,Google Pay,Returning,4,1032.64
+1161,2023-11-26,Smart TV,TV,2,841.1,Europe,Apple Pay,Returning,5,1682.2
+1162,2023-09-09,Smart TV,TV,1,753.28,Europe,Google Pay,Returning,3,753.28
+1163,2023-11-23,Speaker,Audio,1,162.9,South America,PayPal,Returning,3,162.9
+1164,2023-07-18,Monitor,Computer,2,322.3,Europe,PayPal,New,4,644.6
+1165,2023-03-14,Ninteno Switch,Gaming,2,326.49,Asia,Google Pay,Returning,3,652.98
+1166,2023-12-02,Mouse,Accessories,2,60.58,Australia,Google Pay,Returning,4,121.16
+1167,2023-03-03,Webcam,Accessories,3,90.25,Europe,Apple Pay,Returning,3,270.74
+1168,2023-06-02,ipad Air,Tablet,1,609.49,North America,Apple Pay,Returning,3,609.49
+1169,2023-11-28,Headphones,Audio,2,191.76,North America,PayPal,New,5,383.52
+1170,2023-01-16,Monitor,Computer,1,305.72,Asia,Credit Card,Returning,4,305.72
+1171,2023-12-05,Smart TV,TV,1,739.9,Asia,PayPal,Returning,3,739.9
+1172,2023-04-14,Mouse,Accessories,1,55.94,Europe,Google Pay,New,4,55.94
+1173,2023-04-13,Keyboard,Accessories,1,97.24,North America,PayPal,Returning,3,97.24
+1174,2023-11-23,Headphones,Audio,2,203.33,Asia,Apple Pay,New,5,406.66
+1175,2023-10-07,Mouse,Accessories,2,59.29,North America,Credit Card,Returning,3,118.58
+1176,2023-02-13,Headphones,Audio,2,210.85,North America,Google Pay,Returning,3,421.69
+1177,2023-08-26,AirPods Pro,Audio,1,272.04,Asia,Credit Card,Returning,3,272.04
+1178,2023-06-15,Smart TV,TV,2,750.24,Asia,Apple Pay,VIP,4,1500.48
+1179,2023-09-05,Speaker,Audio,2,136.65,South America,Apple Pay,Returning,5,273.3
+1180,2023-02-15,Headphones,Audio,2,188.26,North America,Google Pay,Returning,4,376.51
+1181,2023-07-05,ipad Air,Tablet,2,545.3,North America,PayPal,Returning,3,1090.59
+1182,2023-10-13,iphone 13,Mobile,2,999.12,North America,Apple Pay,Returning,3,1998.23
+1183,2023-02-20,Ninteno Switch,Gaming,2,282.38,Europe,Google Pay,New,5,564.77
+1184,2023-09-25,Headphones,Audio,2,204.35,Australia,Google Pay,New,3,408.69
+1185,2023-09-08,AirPods Pro,Audio,1,236.82,Asia,Google Pay,VIP,3,236.82
+1186,2023-11-24,Ninteno Switch,Gaming,1,277.18,North America,Credit Card,New,3,277.18
+1187,2023-04-25,AirPods Pro,Audio,2,253.73,Australia,PayPal,New,5,507.46
+1188,2023-10-06,Xbox series X,Gaming,2,480.21,Europe,Apple Pay,New,4,960.42
+1189,2023-07-04,iphone 13,Mobile,2,1082.13,Australia,Apple Pay,Returning,3,2164.27
+1190,2023-04-22,Speaker,Audio,2,148.02,Europe,Credit Card,Returning,4,296.04
+1191,2023-08-05,Smart TV,TV,2,849.69,South America,Credit Card,New,4,1699.39
+1192,2023-10-17,iphone 13,Mobile,1,973.74,Europe,Credit Card,VIP,4,973.74
+1193,2023-08-19,AirPods Pro,Audio,2,228.07,Asia,PayPal,VIP,5,456.13
+1194,2023-03-18,Mouse,Accessories,1,63.24,South America,PayPal,New,5,63.24
+1195,2023-04-11,iphone 13,Mobile,1,998.59,Europe,PayPal,Returning,4,998.59
+1196,2023-07-21,Headphones,Audio,1,184.33,North America,Google Pay,VIP,3,184.33
+1197,2023-08-07,AirPods Pro,Audio,1,268.53,North America,PayPal,New,4,268.53
+1198,2023-11-21,PlayStation 5,Gaming,2,483.46,South America,PayPal,New,3,966.91
+1199,2023-09-10,Xbox series X,Gaming,2,539.84,South America,Credit Card,Returning,5,1079.68
+1200,2023-10-05,MacBook pro,Laptop,2,1855.14,Australia,Apple Pay,Returning,4,3710.28
+1201,2023-05-18,Ninteno Switch,Gaming,2,317.26,Australia,PayPal,Returning,5,634.52
+1202,2023-06-04,Smart TV,TV,2,724.43,Australia,PayPal,Returning,4,1448.85
+1203,2023-05-26,PlayStation 5,Gaming,1,531.55,South America,Google Pay,Returning,5,531.55
+1204,2023-01-02,Monitor,Computer,1,276.62,Europe,Apple Pay,VIP,4,276.62
+1205,2023-06-12,Mouse,Accessories,1,60.49,North America,Apple Pay,Returning,4,60.49
+1206,2023-01-09,MacBook pro,Laptop,1,2137.23,Europe,Apple Pay,New,3,2137.23
+1207,2023-11-28,Mouse,Accessories,2,62.85,North America,Google Pay,New,5,125.7
+1208,2023-05-09,Webcam,Accessories,2,90.96,Europe,PayPal,New,3,181.92
+1209,2023-10-14,Xbox series X,Gaming,2,536.87,Europe,Credit Card,Returning,5,1073.73
+1210,2023-04-28,Sasung Galaxy,Mobile,2,902.71,North America,Google Pay,Returning,5,1805.43
+1211,2023-04-06,Webcam,Accessories,1,105.99,Europe,Google Pay,Returning,3,105.99
+1212,2023-11-05,Ninteno Switch,Gaming,2,291.84,Asia,Google Pay,New,4,583.68
+1213,2023-12-18,Headphones,Audio,1,197.47,Australia,PayPal,VIP,5,197.47
+1214,2023-01-25,Monitor,Computer,2,297.88,Australia,Apple Pay,Returning,5,595.76
+1215,2023-05-03,iphone 13,Mobile,2,912.35,Asia,PayPal,VIP,5,1824.7
+1216,2023-05-20,Ninteno Switch,Gaming,2,287.79,South America,Google Pay,Returning,3,575.58
+1217,2023-06-16,Monitor,Computer,2,317.3,Europe,Google Pay,Returning,5,634.59
+1218,2023-10-17,MacBook pro,Laptop,2,1923.6,Asia,PayPal,Returning,4,3847.21
+1219,2023-07-22,Mouse,Accessories,2,59.56,Asia,Apple Pay,Returning,3,119.13
+1220,2023-02-13,Keyboard,Accessories,2,86.95,North America,Apple Pay,New,5,173.89
+1221,2023-01-28,AirPods Pro,Audio,2,263.9,Australia,PayPal,VIP,5,527.8
+1222,2023-09-10,AirPods Pro,Audio,2,268.05,Europe,Google Pay,VIP,5,536.1
+1223,2023-02-26,Ninteno Switch,Gaming,1,313.26,Australia,Apple Pay,New,3,313.26
+1224,2023-03-02,MacBook pro,Laptop,2,1831.29,Australia,PayPal,VIP,5,3662.57
+1225,2023-11-17,Headphones,Audio,1,190.98,Australia,Credit Card,Returning,4,190.98
+1226,2023-06-16,Keyboard,Accessories,3,91.53,South America,Credit Card,Returning,4,274.59
+1227,2023-11-15,Sasung Galaxy,Mobile,1,928.82,North America,Apple Pay,VIP,5,928.82
+1228,2023-10-24,Sasung Galaxy,Mobile,1,952.1,North America,PayPal,New,5,952.1
+1229,2023-09-26,Speaker,Audio,1,157.46,South America,Credit Card,New,3,157.46
+1230,2023-01-20,iphone 13,Mobile,2,964.4,Europe,Credit Card,New,4,1928.8
+1231,2023-03-10,Sasung Galaxy,Mobile,2,902.42,Europe,Google Pay,New,3,1804.85
+1232,2023-07-18,Speaker,Audio,2,149.66,Australia,Credit Card,Returning,3,299.32
+1233,2023-09-25,MacBook pro,Laptop,2,2196.72,Asia,Google Pay,New,3,4393.45
+1234,2023-04-24,MacBook pro,Laptop,1,2149.99,South America,PayPal,New,5,2149.99
+1235,2023-02-11,Mouse,Accessories,3,55.42,South America,Credit Card,New,3,166.26
+1236,2023-08-14,Sasung Galaxy,Mobile,2,945.19,North America,Google Pay,New,5,1890.38
+1237,2023-06-04,Monitor,Computer,2,299.4,North America,Google Pay,VIP,5,598.79
+1238,2023-06-05,Headphones,Audio,1,180.56,Australia,Credit Card,Returning,4,180.56
+1239,2023-12-03,Smart TV,TV,2,814.12,Australia,PayPal,New,5,1628.24
+1240,2023-01-27,MacBook pro,Laptop,1,2042.22,North America,Credit Card,New,3,2042.22
+1241,2023-08-25,Smart TV,TV,1,796.22,South America,PayPal,New,4,796.22
+1242,2023-05-01,Smart TV,TV,2,785.87,Europe,Google Pay,New,5,1571.75
+1243,2023-05-04,AirPods Pro,Audio,2,229.84,South America,Google Pay,New,5,459.69
+1244,2023-08-12,iphone 13,Mobile,2,946.44,Australia,PayPal,Returning,4,1892.89
+1245,2023-05-04,Monitor,Computer,1,292.66,South America,Credit Card,New,5,292.66
+1246,2023-04-26,Sasung Galaxy,Mobile,2,917.18,North America,Apple Pay,New,3,1834.37
+1247,2023-08-01,MacBook pro,Laptop,1,1923.93,North America,Apple Pay,Returning,3,1923.93
+1248,2023-12-18,Ninteno Switch,Gaming,2,277.89,North America,PayPal,New,3,555.78
+1249,2023-02-09,Speaker,Audio,1,146.06,North America,Credit Card,Returning,5,146.06
+1250,2023-11-04,Monitor,Computer,2,315.98,Asia,Google Pay,Returning,3,631.96
+1251,2023-06-28,iphone 13,Mobile,2,979.29,North America,PayPal,New,5,1958.58
+1252,2023-09-09,Headphones,Audio,1,198.11,Asia,Google Pay,New,3,198.11
+1253,2023-09-08,Xbox series X,Gaming,1,519.18,Asia,Credit Card,Returning,3,519.18
+1254,2023-02-11,Speaker,Audio,2,147.82,Asia,Apple Pay,Returning,5,295.64
+1255,2023-03-20,Smart TV,TV,2,837.84,North America,Google Pay,VIP,5,1675.68
+1256,2023-05-08,Mouse,Accessories,2,58.59,Australia,Google Pay,Returning,3,117.18
+1257,2023-04-24,Xbox series X,Gaming,2,521.49,Europe,PayPal,New,5,1042.98
+1258,2023-02-06,Keyboard,Accessories,3,87.85,South America,Apple Pay,Returning,5,263.56
+1259,2023-01-07,MacBook pro,Laptop,2,1910.97,North America,PayPal,New,3,3821.94
+1260,2023-11-27,Keyboard,Accessories,3,87.82,North America,Credit Card,Returning,4,263.45
+1261,2023-06-03,Headphones,Audio,1,183.65,Asia,Apple Pay,New,4,183.65
+1262,2023-07-25,Mouse,Accessories,3,58.03,North America,Google Pay,New,3,174.08
+1263,2023-10-26,Headphones,Audio,1,195.02,Europe,Credit Card,VIP,5,195.02
+1264,2023-05-22,Webcam,Accessories,2,101.52,Asia,Apple Pay,New,3,203.04
+1265,2023-01-23,Headphones,Audio,2,184.97,South America,PayPal,Returning,4,369.93
+1266,2023-08-05,Sasung Galaxy,Mobile,2,955.89,South America,Apple Pay,Returning,3,1911.78
+1267,2023-12-21,Xbox series X,Gaming,1,464.45,Asia,PayPal,New,4,464.45
+1268,2023-05-11,ipad Air,Tablet,1,604.48,North America,PayPal,Returning,3,604.48
+1269,2023-02-08,iphone 13,Mobile,1,984.87,Australia,Google Pay,New,4,984.87
+1270,2023-06-26,iphone 13,Mobile,2,1052.31,Asia,PayPal,New,4,2104.61
+1271,2023-02-17,Headphones,Audio,2,209.83,Asia,Credit Card,Returning,5,419.65
+1272,2023-10-20,Headphones,Audio,2,185.28,Europe,Credit Card,New,3,370.55
+1273,2023-12-12,Sasung Galaxy,Mobile,2,982.78,South America,PayPal,New,4,1965.56
+1274,2023-06-23,Xbox series X,Gaming,2,457.64,North America,Credit Card,Returning,5,915.29
+1275,2023-09-04,Keyboard,Accessories,3,94.31,Asia,Apple Pay,Returning,5,282.94
+1276,2023-09-19,Ninteno Switch,Gaming,2,273.59,North America,Apple Pay,VIP,4,547.17
+1277,2023-10-03,Speaker,Audio,2,141.52,South America,Credit Card,Returning,4,283.04
+1278,2023-10-14,Speaker,Audio,2,160.65,Australia,PayPal,Returning,4,321.3
+1279,2023-11-23,Sasung Galaxy,Mobile,2,877.29,North America,Credit Card,Returning,4,1754.59
+1280,2023-03-26,Monitor,Computer,1,293.75,Europe,PayPal,Returning,3,293.75
+1281,2023-12-17,Webcam,Accessories,2,93.58,Asia,Credit Card,New,5,187.15
+1282,2023-12-16,MacBook pro,Laptop,2,2198.47,Europe,Google Pay,Returning,3,4396.94
+1283,2023-10-07,Webcam,Accessories,2,91.89,Australia,Apple Pay,Returning,3,183.78
+1284,2023-02-05,Mouse,Accessories,2,58.11,Europe,PayPal,VIP,4,116.23
+1285,2023-11-03,PlayStation 5,Gaming,1,483.61,Australia,PayPal,Returning,5,483.61
+1286,2023-02-25,Xbox series X,Gaming,1,471.49,Australia,Apple Pay,New,4,471.49
+1287,2023-02-21,Mouse,Accessories,3,58.46,South America,Credit Card,Returning,3,175.39
+1288,2023-10-20,Sasung Galaxy,Mobile,1,876.17,South America,Credit Card,New,3,876.17
+1289,2023-07-28,Keyboard,Accessories,2,95.4,Europe,Google Pay,New,4,190.8
+1290,2023-09-26,iphone 13,Mobile,2,910.01,North America,Apple Pay,Returning,4,1820.03
+1291,2023-11-07,iphone 13,Mobile,2,900.65,Australia,PayPal,VIP,4,1801.31
+1292,2023-05-04,PlayStation 5,Gaming,2,536.36,South America,Google Pay,VIP,5,1072.71
+1293,2023-12-25,PlayStation 5,Gaming,1,489.2,South America,PayPal,Returning,4,489.2
+1294,2023-08-10,Speaker,Audio,1,160.56,Australia,Apple Pay,New,5,160.56
+1295,2023-11-11,ipad Air,Tablet,2,586.93,South America,PayPal,New,5,1173.86
+1296,2023-03-01,iphone 13,Mobile,2,1074.73,South America,PayPal,Returning,5,2149.46
+1297,2023-10-26,iphone 13,Mobile,1,1086.78,South America,Apple Pay,New,3,1086.78
+1298,2023-02-23,Xbox series X,Gaming,1,473.8,South America,Apple Pay,Returning,4,473.8
+1299,2023-05-15,Mouse,Accessories,2,54.37,Australia,Google Pay,Returning,5,108.73
+1300,2023-02-05,Keyboard,Accessories,2,94.03,North America,Apple Pay,VIP,3,188.07
+1301,2023-04-01,Sasung Galaxy,Mobile,2,958.35,Europe,Credit Card,New,5,1916.7
+1302,2023-10-08,Keyboard,Accessories,2,86.09,Asia,Apple Pay,New,5,172.18
+1303,2023-10-03,AirPods Pro,Audio,2,254.71,South America,Credit Card,New,5,509.42
+1304,2023-05-06,Webcam,Accessories,1,92.46,North America,Apple Pay,Returning,5,92.46
+1305,2023-12-21,Speaker,Audio,1,163.6,Asia,PayPal,New,4,163.6
+1306,2023-11-25,Smart TV,TV,2,791.17,Europe,Credit Card,New,5,1582.34
+1307,2023-03-15,Keyboard,Accessories,2,82.89,Europe,Apple Pay,Returning,4,165.77
+1308,2023-02-26,Xbox series X,Gaming,1,523.95,North America,Google Pay,VIP,4,523.95
+1309,2023-12-24,Xbox series X,Gaming,1,514.28,Europe,PayPal,Returning,4,514.28
+1310,2023-09-20,Speaker,Audio,2,158.93,Europe,PayPal,New,3,317.87
+1311,2023-10-06,MacBook pro,Laptop,1,2195.71,Asia,PayPal,VIP,3,2195.71
+1312,2023-07-26,Mouse,Accessories,3,63.33,Australia,Credit Card,New,4,189.98
+1313,2023-05-08,Headphones,Audio,2,192.65,South America,Google Pay,New,5,385.3
+1314,2023-01-06,Ninteno Switch,Gaming,1,300.66,North America,Apple Pay,Returning,5,300.66
+1315,2023-11-24,Mouse,Accessories,2,54.92,Australia,Credit Card,Returning,3,109.83
+1316,2023-09-14,iphone 13,Mobile,1,1064.64,Europe,Credit Card,VIP,3,1064.64
+1317,2023-05-20,Xbox series X,Gaming,2,487.82,South America,Apple Pay,New,5,975.65
+1318,2023-02-01,MacBook pro,Laptop,1,2006.59,North America,Credit Card,New,3,2006.59
+1319,2023-09-25,iphone 13,Mobile,1,903.98,Europe,Google Pay,Returning,3,903.98
+1320,2023-01-12,Sasung Galaxy,Mobile,1,929.95,Europe,PayPal,Returning,5,929.95
+1321,2023-05-28,AirPods Pro,Audio,1,239.95,Europe,Apple Pay,VIP,5,239.95
+1322,2023-09-02,iphone 13,Mobile,1,1089.95,South America,Google Pay,New,3,1089.95
+1323,2023-05-06,Keyboard,Accessories,1,89.84,Australia,PayPal,Returning,3,89.84
+1324,2023-05-18,Monitor,Computer,1,300.84,Australia,Apple Pay,VIP,4,300.84
+1325,2023-09-19,Sasung Galaxy,Mobile,1,830.48,South America,Apple Pay,Returning,3,830.48
+1326,2023-05-24,MacBook pro,Laptop,1,1945.74,South America,Credit Card,New,4,1945.74
+1327,2023-09-14,Keyboard,Accessories,1,88.79,North America,PayPal,New,3,88.79
+1328,2023-11-25,Monitor,Computer,2,318.11,Asia,Google Pay,Returning,4,636.21
+1329,2023-12-11,Keyboard,Accessories,1,95.35,Australia,PayPal,New,4,95.35
+1330,2023-12-16,AirPods Pro,Audio,2,270.31,Europe,Credit Card,Returning,3,540.62
+1331,2023-09-18,Smart TV,TV,2,719.78,Asia,Credit Card,New,3,1439.56
+1332,2023-09-01,Smart TV,TV,1,800.23,Australia,Google Pay,New,3,800.23
+1333,2023-06-11,Headphones,Audio,2,200.08,Asia,Apple Pay,Returning,3,400.17
+1334,2023-03-15,Xbox series X,Gaming,1,495.21,North America,PayPal,Returning,5,495.21
+1335,2023-01-17,ipad Air,Tablet,1,640.3,South America,Apple Pay,Returning,4,640.3
+1336,2023-12-13,Monitor,Computer,1,323.91,North America,Google Pay,New,4,323.91
+1337,2023-03-09,PlayStation 5,Gaming,2,508.6,North America,Google Pay,New,4,1017.2
+1338,2023-11-15,Xbox series X,Gaming,1,523.29,South America,Apple Pay,VIP,3,523.29
+1339,2023-01-08,Monitor,Computer,1,325.22,Asia,PayPal,Returning,3,325.22
+1340,2023-08-25,Smart TV,TV,2,775.09,Australia,Credit Card,Returning,3,1550.19
+1341,2023-05-22,Speaker,Audio,2,144.01,Australia,Credit Card,New,5,288.03
+1342,2023-08-23,Xbox series X,Gaming,2,529.75,North America,Google Pay,Returning,3,1059.5
+1343,2023-01-24,Headphones,Audio,1,208.91,Europe,Google Pay,New,3,208.91
+1344,2023-01-19,Monitor,Computer,2,294.28,Asia,PayPal,Returning,5,588.55
+1345,2023-05-02,Speaker,Audio,1,141.54,Asia,PayPal,New,5,141.54
+1346,2023-06-16,Smart TV,TV,2,825.58,Australia,Apple Pay,VIP,5,1651.16
+1347,2023-08-10,Smart TV,TV,1,749.64,Europe,Apple Pay,Returning,3,749.64
+1348,2023-02-07,Headphones,Audio,1,203.93,Europe,Google Pay,Returning,3,203.93
+1349,2023-06-09,ipad Air,Tablet,1,593.3,Australia,Google Pay,Returning,5,593.3
+1350,2023-07-20,iphone 13,Mobile,2,1072.07,Australia,Apple Pay,New,3,2144.14
+1351,2023-10-16,iphone 13,Mobile,1,954.78,Europe,PayPal,New,5,954.78
+1352,2023-05-25,Ninteno Switch,Gaming,2,326.3,South America,PayPal,New,4,652.6
+1353,2023-06-14,AirPods Pro,Audio,1,225.63,Asia,Google Pay,Returning,3,225.63
+1354,2023-10-24,iphone 13,Mobile,1,1071.16,Europe,PayPal,Returning,5,1071.16
+1355,2023-11-13,ipad Air,Tablet,2,608.34,North America,PayPal,Returning,5,1216.68
+1356,2023-12-20,AirPods Pro,Audio,1,240.48,Australia,Google Pay,VIP,5,240.48
+1357,2023-10-14,PlayStation 5,Gaming,1,530.82,South America,Credit Card,Returning,5,530.82
+1358,2023-08-08,Mouse,Accessories,2,60.18,North America,Credit Card,New,3,120.36
+1359,2023-06-09,Smart TV,TV,2,776.35,Asia,Credit Card,Returning,3,1552.7
+1360,2023-03-19,AirPods Pro,Audio,1,247.61,Australia,Credit Card,Returning,3,247.61
+1361,2023-11-12,Xbox series X,Gaming,1,490.6,Europe,Credit Card,Returning,4,490.6
+1362,2023-06-07,AirPods Pro,Audio,2,227.27,Asia,Google Pay,Returning,4,454.55
+1363,2023-07-01,AirPods Pro,Audio,2,249.14,Australia,Google Pay,New,4,498.28
+1364,2023-06-17,Smart TV,TV,2,745.96,Australia,Google Pay,New,3,1491.93
+1365,2023-01-13,PlayStation 5,Gaming,1,503.0,Australia,Apple Pay,New,4,503.0
+1366,2023-01-17,Mouse,Accessories,1,55.7,Asia,Credit Card,New,4,55.7
+1367,2023-01-10,Sasung Galaxy,Mobile,2,856.32,North America,Google Pay,New,5,1712.63
+1368,2023-09-16,Keyboard,Accessories,1,86.78,Australia,Credit Card,Returning,3,86.78
+1369,2023-12-07,Xbox series X,Gaming,1,537.41,Europe,Credit Card,Returning,3,537.41
+1370,2023-08-11,Keyboard,Accessories,1,80.84,South America,Credit Card,New,4,80.84
+1371,2023-04-25,MacBook pro,Laptop,1,1917.67,North America,Credit Card,New,4,1917.67
+1372,2023-08-20,Speaker,Audio,1,157.26,Asia,Credit Card,Returning,5,157.26
+1373,2023-09-06,Webcam,Accessories,2,104.86,Australia,Credit Card,New,5,209.73
+1374,2023-09-28,Webcam,Accessories,1,99.0,North America,Credit Card,Returning,4,99.0
+1375,2023-04-06,PlayStation 5,Gaming,1,545.62,Asia,Apple Pay,VIP,3,545.62
+1376,2023-10-21,Keyboard,Accessories,3,88.41,Australia,PayPal,New,5,265.23
+1377,2023-08-05,Ninteno Switch,Gaming,2,290.65,Australia,Google Pay,Returning,5,581.3
+1378,2023-02-25,Keyboard,Accessories,2,94.84,Europe,Credit Card,Returning,4,189.68
+1379,2023-11-04,Sasung Galaxy,Mobile,2,861.97,Europe,Credit Card,New,5,1723.95
+1380,2023-03-14,Mouse,Accessories,2,61.01,Australia,Credit Card,Returning,5,122.03
+1381,2023-04-19,Keyboard,Accessories,3,80.58,North America,Google Pay,New,4,241.74
+1382,2023-08-05,Speaker,Audio,2,140.03,Europe,Apple Pay,Returning,5,280.05
+1383,2023-01-18,AirPods Pro,Audio,1,250.69,Asia,Google Pay,VIP,4,250.69
+1384,2023-11-17,Mouse,Accessories,3,53.25,Australia,Google Pay,New,4,159.74
+1385,2023-08-16,Speaker,Audio,2,155.27,Europe,PayPal,New,5,310.54
+1386,2023-03-18,Headphones,Audio,2,193.98,South America,Google Pay,New,3,387.96
+1387,2023-10-23,Xbox series X,Gaming,2,511.11,Asia,Apple Pay,New,3,1022.22
+1388,2023-07-19,Mouse,Accessories,2,60.81,Australia,Credit Card,Returning,3,121.62
+1389,2023-03-18,Xbox series X,Gaming,2,467.8,South America,Credit Card,New,3,935.6
+1390,2023-03-14,Mouse,Accessories,3,63.64,Europe,PayPal,Returning,3,190.92
+1391,2023-10-02,Headphones,Audio,1,193.39,Asia,Credit Card,Returning,5,193.39
+1392,2023-05-23,Xbox series X,Gaming,1,482.6,Asia,Credit Card,New,5,482.6
+1393,2023-01-22,Webcam,Accessories,1,102.33,Asia,Google Pay,VIP,5,102.33
+1394,2023-01-22,Speaker,Audio,1,156.18,North America,PayPal,Returning,4,156.18
+1395,2023-08-08,AirPods Pro,Audio,2,228.85,Asia,PayPal,New,4,457.71
+1396,2023-05-22,Speaker,Audio,2,136.95,Europe,Google Pay,Returning,5,273.91
+1397,2023-10-25,MacBook pro,Laptop,2,2080.26,Australia,Google Pay,New,5,4160.52
+1398,2023-05-23,iphone 13,Mobile,1,1084.1,South America,PayPal,VIP,4,1084.1
+1399,2023-02-24,Speaker,Audio,2,135.11,Asia,Credit Card,New,4,270.22
+1400,2023-02-20,PlayStation 5,Gaming,1,494.24,North America,Google Pay,VIP,3,494.24
+1401,2023-02-05,MacBook pro,Laptop,1,2000.88,South America,Apple Pay,New,3,2000.88
+1402,2023-01-17,Monitor,Computer,1,288.34,Europe,Apple Pay,New,4,288.34
+1403,2023-03-07,Keyboard,Accessories,3,84.6,North America,Credit Card,Returning,3,253.79
+1404,2023-12-16,Webcam,Accessories,1,93.97,Asia,PayPal,Returning,3,93.97
+1405,2023-09-07,Sasung Galaxy,Mobile,2,897.03,Asia,Credit Card,New,4,1794.07
+1406,2023-05-07,Sasung Galaxy,Mobile,1,933.77,Australia,PayPal,VIP,5,933.77
+1407,2023-09-17,ipad Air,Tablet,1,586.12,Europe,Credit Card,Returning,3,586.12
+1408,2023-10-03,MacBook pro,Laptop,1,2185.43,Europe,PayPal,New,4,2185.43
+1409,2023-10-01,Smart TV,TV,2,787.24,Australia,Google Pay,VIP,3,1574.48
+1410,2023-05-03,Smart TV,TV,1,871.55,Asia,PayPal,Returning,3,871.55
+1411,2023-01-16,Headphones,Audio,2,182.71,South America,PayPal,New,4,365.42
+1412,2023-06-02,Monitor,Computer,1,284.8,North America,Apple Pay,Returning,4,284.8
+1413,2023-03-24,Sasung Galaxy,Mobile,1,934.69,Australia,Google Pay,New,4,934.69
+1414,2023-02-04,Smart TV,TV,1,867.28,South America,PayPal,Returning,3,867.28
+1415,2023-05-01,Sasung Galaxy,Mobile,1,964.31,North America,Google Pay,Returning,5,964.31
+1416,2023-05-05,Headphones,Audio,1,184.07,North America,Apple Pay,Returning,5,184.07
+1417,2023-04-19,Sasung Galaxy,Mobile,2,905.79,South America,Credit Card,VIP,4,1811.59
+1418,2023-08-17,Headphones,Audio,1,203.67,Australia,Google Pay,Returning,4,203.67
+1419,2023-08-24,Webcam,Accessories,2,106.14,Australia,Apple Pay,New,3,212.28
+1420,2023-09-20,Monitor,Computer,1,310.58,Europe,Credit Card,New,3,310.58
+1421,2023-06-16,Monitor,Computer,1,317.52,South America,PayPal,Returning,5,317.52
+1422,2023-07-28,Sasung Galaxy,Mobile,2,827.44,North America,Apple Pay,Returning,4,1654.89
+1423,2023-06-22,Monitor,Computer,1,284.8,South America,Credit Card,New,4,284.8
+1424,2023-09-03,Ninteno Switch,Gaming,2,280.18,Australia,PayPal,Returning,3,560.36
+1425,2023-09-14,Ninteno Switch,Gaming,1,280.24,South America,Apple Pay,Returning,3,280.24
+1426,2023-12-12,iphone 13,Mobile,2,1001.5,South America,Google Pay,New,4,2003.01
+1427,2023-04-16,Smart TV,TV,2,773.2,Australia,Apple Pay,Returning,5,1546.41
+1428,2023-07-14,Headphones,Audio,1,215.3,South America,Apple Pay,New,4,215.3
+1429,2023-01-05,Sasung Galaxy,Mobile,2,831.65,North America,Credit Card,VIP,3,1663.3
+1430,2023-06-04,Sasung Galaxy,Mobile,2,946.12,North America,Google Pay,Returning,4,1892.23
+1431,2023-10-28,AirPods Pro,Audio,1,269.62,Europe,Google Pay,Returning,4,269.62
+1432,2023-10-03,Monitor,Computer,1,296.15,Australia,Apple Pay,New,5,296.15
+1433,2023-08-02,PlayStation 5,Gaming,2,482.68,North America,Apple Pay,New,3,965.36
+1434,2023-02-21,Monitor,Computer,2,309.39,South America,Apple Pay,Returning,3,618.77
+1435,2023-07-16,Ninteno Switch,Gaming,1,315.65,Asia,Apple Pay,Returning,3,315.65
+1436,2023-07-10,ipad Air,Tablet,1,548.66,South America,PayPal,New,4,548.66
+1437,2023-02-18,Mouse,Accessories,2,60.88,Australia,PayPal,New,5,121.75
+1438,2023-11-13,Headphones,Audio,1,203.34,Asia,PayPal,New,3,203.34
+1439,2023-05-25,Xbox series X,Gaming,1,457.75,North America,Apple Pay,New,3,457.75
+1440,2023-08-04,Smart TV,TV,1,773.15,Asia,Google Pay,New,3,773.15
+1441,2023-11-07,Ninteno Switch,Gaming,2,284.12,Asia,Apple Pay,New,5,568.23
+1442,2023-06-03,Sasung Galaxy,Mobile,1,919.55,North America,Google Pay,Returning,5,919.55
+1443,2023-01-26,Headphones,Audio,1,195.55,Australia,Credit Card,New,5,195.55
+1444,2023-02-28,Xbox series X,Gaming,1,483.33,North America,Apple Pay,Returning,4,483.33
+1445,2023-04-08,Smart TV,TV,1,743.86,Australia,Apple Pay,New,4,743.86
+1446,2023-03-26,Mouse,Accessories,3,57.89,South America,Apple Pay,VIP,4,173.68
+1447,2023-08-05,Webcam,Accessories,1,100.09,Asia,PayPal,New,3,100.09
+1448,2023-06-14,Speaker,Audio,2,147.5,Asia,Google Pay,New,3,295.0
+1449,2023-09-21,Webcam,Accessories,3,104.38,North America,Google Pay,New,5,313.15
+1450,2023-08-07,Ninteno Switch,Gaming,2,308.75,Asia,PayPal,Returning,5,617.5
+1451,2023-12-08,Keyboard,Accessories,2,85.35,South America,Apple Pay,Returning,5,170.7
+1452,2023-11-27,Sasung Galaxy,Mobile,2,854.69,Europe,Google Pay,VIP,4,1709.38
+1453,2023-06-21,Headphones,Audio,2,181.22,Australia,Google Pay,Returning,3,362.44
+1454,2023-01-27,Mouse,Accessories,1,62.11,Asia,Google Pay,Returning,4,62.11
+1455,2023-09-16,Keyboard,Accessories,1,88.09,South America,Credit Card,Returning,5,88.09
+1456,2023-08-16,Xbox series X,Gaming,2,524.39,Asia,Credit Card,Returning,3,1048.77
+1457,2023-11-19,Mouse,Accessories,3,53.76,Australia,Credit Card,Returning,3,161.27
+1458,2023-02-01,ipad Air,Tablet,2,609.98,Europe,PayPal,Returning,4,1219.96
+1459,2023-12-18,AirPods Pro,Audio,1,270.5,South America,Google Pay,Returning,3,270.5
+1460,2023-02-19,MacBook pro,Laptop,2,1974.26,North America,PayPal,Returning,3,3948.53
+1461,2023-03-21,Mouse,Accessories,3,58.86,Europe,PayPal,New,4,176.59
+1462,2023-09-06,Xbox series X,Gaming,2,493.32,Australia,Apple Pay,New,3,986.65
+1463,2023-10-26,Keyboard,Accessories,2,85.42,Europe,PayPal,New,5,170.84
+1464,2023-06-13,ipad Air,Tablet,1,567.68,South America,Apple Pay,Returning,4,567.68
+1465,2023-08-08,Monitor,Computer,2,279.71,Australia,Credit Card,New,3,559.41
+1466,2023-08-04,Keyboard,Accessories,1,96.97,North America,Credit Card,Returning,3,96.97
+1467,2023-02-08,Webcam,Accessories,1,105.4,Australia,Apple Pay,Returning,5,105.4
+1468,2023-04-07,ipad Air,Tablet,1,582.28,Europe,Apple Pay,New,3,582.28
+1469,2023-12-08,Speaker,Audio,2,143.47,Europe,Apple Pay,Returning,5,286.95
+1470,2023-08-23,PlayStation 5,Gaming,1,516.9,Australia,Credit Card,New,5,516.9
+1471,2023-11-05,MacBook pro,Laptop,1,1843.48,South America,Apple Pay,New,4,1843.48
+1472,2023-05-22,Smart TV,TV,2,864.06,North America,Google Pay,New,5,1728.12
+1473,2023-06-04,iphone 13,Mobile,2,1057.71,North America,PayPal,Returning,4,2115.42
+1474,2023-06-10,PlayStation 5,Gaming,2,514.06,Europe,PayPal,New,3,1028.12
+1475,2023-11-23,MacBook pro,Laptop,1,2140.22,North America,Google Pay,New,4,2140.22
+1476,2023-02-22,PlayStation 5,Gaming,2,533.17,South America,Google Pay,New,4,1066.33
+1477,2023-10-07,Monitor,Computer,2,312.82,South America,Credit Card,Returning,3,625.63
+1478,2023-05-15,Keyboard,Accessories,2,83.11,Asia,PayPal,Returning,5,166.22
+1479,2023-02-24,Keyboard,Accessories,2,89.17,South America,PayPal,New,3,178.34
+1480,2023-11-21,Headphones,Audio,1,186.26,Europe,Google Pay,New,4,186.26
+1481,2023-07-15,AirPods Pro,Audio,2,263.15,North America,Credit Card,Returning,5,526.3
+1482,2023-01-05,Monitor,Computer,2,293.68,South America,Credit Card,New,3,587.36
+1483,2023-12-14,ipad Air,Tablet,2,613.45,North America,PayPal,New,3,1226.9
+1484,2023-04-17,Mouse,Accessories,2,58.23,South America,Credit Card,New,3,116.45
+1485,2023-02-19,Ninteno Switch,Gaming,2,277.03,Asia,Apple Pay,Returning,4,554.06
+1486,2023-09-07,ipad Air,Tablet,2,563.21,Europe,Google Pay,Returning,3,1126.43
+1487,2023-07-03,MacBook pro,Laptop,2,2069.46,Asia,Credit Card,Returning,5,4138.91
+1488,2023-04-05,Ninteno Switch,Gaming,1,279.65,North America,Credit Card,Returning,3,279.65
+1489,2023-06-13,ipad Air,Tablet,2,605.8,Asia,Google Pay,Returning,4,1211.59
+1490,2023-04-14,Sasung Galaxy,Mobile,1,987.73,South America,Apple Pay,New,5,987.73
+1491,2023-06-21,Speaker,Audio,1,139.19,Asia,Apple Pay,New,5,139.19
+1492,2023-11-18,Webcam,Accessories,1,99.56,Asia,Google Pay,New,4,99.56
+1493,2023-07-23,Speaker,Audio,2,150.07,Australia,PayPal,Returning,4,300.14
+1494,2023-11-21,Xbox series X,Gaming,1,492.56,Europe,Credit Card,Returning,5,492.56
+1495,2023-11-16,Mouse,Accessories,2,59.69,Europe,Apple Pay,New,4,119.38
+1496,2023-07-28,Speaker,Audio,1,147.04,North America,Apple Pay,New,3,147.04
+1497,2023-10-27,Speaker,Audio,2,161.09,Europe,PayPal,Returning,5,322.17
+1498,2023-10-18,Mouse,Accessories,1,57.95,Europe,Apple Pay,New,3,57.95
+1499,2023-01-11,AirPods Pro,Audio,2,269.11,Asia,PayPal,Returning,3,538.22

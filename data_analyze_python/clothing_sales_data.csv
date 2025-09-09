@@ -1,201 +1,201 @@
 date,product,category,quantity,price,region,season,payment_method,customer_type,sales
-2023-12-05,Shoes,Footwear,1,102.85,North,Winter,Paypal,Regular,102.85
-2023-05-23,T-Shirt,Tops,3,25.89,West,Spring,Credit Card,Regular,77.68
-2023-05-10,Blouse,Tops,2,51.57,West,Spring,Debit Card,Regular,103.14
-2023-06-28,Shoes,Footwear,2,91.07,East,Summer,Cash,Regular,182.14
-2023-10-17,Jeans,Bottoms,2,51.67,West,Fall,Credit Card,Regular,103.35
-2023-05-22,Shorts,Bottoms,3,36.96,East,Spring,Paypal,Regular,110.89
-2023-01-26,Dress,Dresses,4,91.16,North,Winter,Debit Card,New,364.64
-2023-08-23,T-Shirt,Tops,1,22.55,West,Summer,Paypal,New,22.55
-2023-09-21,Jacket,Outerwear,2,103.51,North,Fall,Paypal,New,207.02
-2023-08-12,Blouse,Tops,4,61.54,West,Summer,Debit Card,Regular,246.15
-2023-12-04,T-Shirt,Tops,3,23.11,West,Winter,Paypal,Regular,69.32
-2023-04-26,Skirt,Bottoms,4,38.17,North,Spring,Debit Card,New,152.69
-2023-09-22,Dress,Dresses,3,78.96,North,Fall,Cash,New,236.88
-2023-02-26,Blouse,Tops,2,49.76,North,Winter,Paypal,Regular,99.52
-2023-06-17,Jacket,Outerwear,4,121.34,East,Summer,Credit Card,Regular,485.36
-2023-11-12,Shoes,Footwear,1,89.69,East,Fall,Credit Card,Regular,89.69
-2023-11-26,Jeans,Bottoms,1,65.91,West,Fall,Credit Card,New,65.91
-2023-07-20,Jeans,Bottoms,1,54.78,West,Summer,Debit Card,Regular,54.78
-2023-11-16,Coat,Outerwear,2,139.89,East,Fall,Paypal,New,279.79
-2023-05-18,Sweater,Tops,2,50.24,East,Spring,Debit Card,Regular,100.47
-2023-06-03,Sweater,Tops,2,41.59,East,Summer,Paypal,New,83.19
-2023-04-22,Sweater,Tops,2,41.98,South,Spring,Cash,Regular,83.95
-2023-03-10,Skirt,Bottoms,1,45.67,West,Spring,Debit Card,Regular,45.67
-2023-11-06,Dress,Dresses,1,71.68,South,Fall,Credit Card,Regular,71.68
-2023-02-28,Jeans,Bottoms,1,65.18,East,Winter,Debit Card,Regular,65.18
-2023-01-16,T-Shirt,Tops,1,22.79,South,Winter,Paypal,Regular,22.79
-2023-09-14,Shoes,Footwear,4,83.91,South,Fall,Debit Card,New,335.63
-2023-09-17,Skirt,Bottoms,2,45.79,North,Fall,Cash,Regular,91.58
-2023-11-09,Skirt,Bottoms,3,39.62,North,Fall,Paypal,Regular,118.87
-2023-11-03,Jacket,Outerwear,1,111.84,West,Fall,Cash,Regular,111.84
-2023-08-02,Jacket,Outerwear,2,136.11,South,Summer,Paypal,New,272.22
-2023-07-28,Shorts,Bottoms,3,30.61,South,Summer,Cash,Regular,91.82
-2023-02-25,Sweater,Tops,4,49.01,North,Winter,Paypal,New,196.04
-2023-08-27,Shorts,Bottoms,2,36.23,West,Summer,Debit Card,Regular,72.46
-2023-05-19,Skirt,Bottoms,4,43.28,East,Spring,Debit Card,Regular,173.13
-2023-07-28,Shoes,Footwear,2,103.15,West,Summer,Paypal,Regular,206.31
-2023-06-28,Jacket,Outerwear,2,110.84,South,Summer,Paypal,New,221.68
-2023-03-24,Skirt,Bottoms,3,42.38,West,Spring,Paypal,Regular,127.13
-2023-06-14,Jacket,Outerwear,4,104.15,West,Summer,Paypal,New,416.6
-2023-01-15,Blouse,Tops,1,62.55,North,Winter,Paypal,Regular,62.55
-2023-06-22,Coat,Outerwear,3,157.22,East,Summer,Paypal,Regular,471.67
-2023-08-05,Blouse,Tops,4,59.95,South,Summer,Paypal,Regular,239.8
-2023-06-19,Shorts,Bottoms,1,35.33,East,Summer,Debit Card,New,35.33
-2023-01-06,Skirt,Bottoms,2,35.53,West,Winter,Paypal,Regular,71.06
-2023-03-04,T-Shirt,Tops,4,24.85,North,Spring,Debit Card,Regular,99.4
-2023-06-08,Coat,Outerwear,1,170.51,East,Summer,Credit Card,Regular,170.51
-2023-02-27,Jeans,Bottoms,4,57.52,East,Winter,Paypal,Regular,230.09
-2023-12-09,Jeans,Bottoms,4,61.33,North,Winter,Cash,Regular,245.33
-2023-04-16,Shorts,Bottoms,2,30.27,West,Spring,Cash,New,60.54
-2023-08-16,Sweater,Tops,2,48.39,West,Summer,Paypal,New,96.78
-2023-06-02,Jeans,Bottoms,4,55.24,West,Summer,Debit Card,Regular,220.95
-2023-07-25,Skirt,Bottoms,2,37.5,South,Summer,Debit Card,Regular,75.0
-2023-08-27,Dress,Dresses,4,70.83,East,Summer,Paypal,Regular,283.3
-2023-01-26,Blouse,Tops,1,59.69,East,Winter,Debit Card,Regular,59.69
-2023-10-23,Skirt,Bottoms,2,39.3,South,Fall,Cash,Regular,78.59
-2023-05-03,Shorts,Bottoms,4,33.54,South,Spring,Debit Card,Regular,134.17
-2023-04-22,Shoes,Footwear,4,85.8,East,Spring,Paypal,Regular,343.2
-2023-01-22,T-Shirt,Tops,3,27.75,North,Winter,Credit Card,Regular,83.24
-2023-07-21,Shoes,Footwear,3,86.71,South,Summer,Debit Card,Regular,260.13
-2023-04-27,Shorts,Bottoms,3,37.5,North,Spring,Cash,Regular,112.5
-2023-02-21,Coat,Outerwear,2,135.73,East,Winter,Paypal,Regular,271.45
-2023-01-04,T-Shirt,Tops,2,24.02,East,Winter,Cash,Regular,48.03
-2023-10-24,Blouse,Tops,2,53.15,North,Fall,Credit Card,Regular,106.31
-2023-01-22,Jacket,Outerwear,1,123.06,South,Winter,Credit Card,Regular,123.06
-2023-07-12,Dress,Dresses,3,82.86,West,Summer,Debit Card,Regular,248.57
-2023-08-18,Jacket,Outerwear,4,127.77,East,Summer,Paypal,New,511.08
-2023-03-22,Jeans,Bottoms,1,55.99,South,Spring,Paypal,New,55.99
-2023-12-11,Coat,Outerwear,4,145.25,West,Winter,Credit Card,Regular,581.0
-2023-12-27,Shorts,Bottoms,2,32.76,North,Winter,Debit Card,Regular,65.52
-2023-02-19,Skirt,Bottoms,1,42.44,West,Winter,Cash,Regular,42.44
-2023-03-21,Blouse,Tops,1,57.34,South,Spring,Cash,Regular,57.34
-2023-07-12,Sweater,Tops,1,42.74,West,Summer,Credit Card,New,42.74
-2023-03-27,Shorts,Bottoms,2,35.18,West,Spring,Cash,Regular,70.37
-2023-02-24,Jacket,Outerwear,3,124.29,North,Winter,Credit Card,Regular,372.86
-2023-09-12,Jeans,Bottoms,4,66.15,East,Fall,Credit Card,New,264.58
-2023-12-01,Skirt,Bottoms,4,42.25,West,Winter,Cash,Regular,169.0
-2023-12-18,Skirt,Bottoms,4,40.41,East,Winter,Debit Card,New,161.63
-2023-10-15,Sweater,Tops,4,45.03,East,Fall,Paypal,Regular,180.11
-2023-04-08,Shorts,Bottoms,2,30.09,East,Spring,Paypal,New,60.17
-2023-04-16,Skirt,Bottoms,4,44.1,West,Spring,Debit Card,New,176.4
-2023-01-11,Skirt,Bottoms,3,44.62,West,Winter,Cash,Regular,133.86
-2023-04-18,Coat,Outerwear,1,154.91,West,Spring,Credit Card,Regular,154.91
-2023-08-23,Jacket,Outerwear,4,124.23,East,Summer,Cash,New,496.93
-2023-01-08,T-Shirt,Tops,1,23.91,South,Winter,Debit Card,Regular,23.91
-2023-11-04,Jacket,Outerwear,4,126.06,West,Fall,Cash,New,504.23
-2023-08-20,Shoes,Footwear,4,93.56,North,Summer,Credit Card,New,374.25
-2023-05-07,Jeans,Bottoms,4,54.02,North,Spring,Debit Card,New,216.06
-2023-11-20,Coat,Outerwear,4,147.15,East,Fall,Cash,Regular,588.61
-2023-04-25,Sweater,Tops,4,40.47,North,Spring,Credit Card,Regular,161.89
-2023-07-02,Coat,Outerwear,1,160.22,West,Summer,Cash,Regular,160.22
-2023-12-07,Skirt,Bottoms,4,41.29,North,Winter,Debit Card,Regular,165.16
-2023-11-28,Dress,Dresses,3,71.6,South,Fall,Paypal,Regular,214.81
-2023-02-19,Coat,Outerwear,4,128.89,East,Winter,Paypal,Regular,515.54
-2023-01-13,Jeans,Bottoms,4,59.96,West,Winter,Paypal,Regular,239.83
-2023-02-17,Shorts,Bottoms,1,31.41,South,Winter,Debit Card,Regular,31.41
-2023-03-14,Coat,Outerwear,1,152.18,South,Spring,Credit Card,Regular,152.18
-2023-06-25,Coat,Outerwear,3,150.99,East,Summer,Debit Card,New,452.98
-2023-07-24,Jeans,Bottoms,1,53.61,West,Summer,Paypal,Regular,53.61
-2023-10-15,Shoes,Footwear,1,95.04,South,Fall,Cash,Regular,95.04
-2023-09-16,T-Shirt,Tops,4,26.24,North,Fall,Debit Card,New,104.94
-2023-09-05,Sweater,Tops,1,49.08,South,Fall,Cash,Regular,49.08
-2023-04-23,T-Shirt,Tops,1,25.57,South,Spring,Credit Card,Regular,25.57
-2023-04-08,Coat,Outerwear,4,130.41,West,Spring,Credit Card,Regular,521.64
-2023-06-25,Skirt,Bottoms,2,35.06,South,Summer,Paypal,Regular,70.12
-2023-07-27,Shorts,Bottoms,3,38.28,East,Summer,Debit Card,Regular,114.85
-2023-10-27,Jeans,Bottoms,3,63.28,West,Fall,Debit Card,Regular,189.85
-2023-07-07,Jacket,Outerwear,1,104.96,South,Summer,Credit Card,Regular,104.96
-2023-04-07,Blouse,Tops,3,52.49,West,Spring,Paypal,Regular,157.48
-2023-03-12,Coat,Outerwear,2,137.13,North,Spring,Paypal,Regular,274.27
-2023-05-24,T-Shirt,Tops,3,26.57,South,Spring,Paypal,New,79.71
-2023-06-14,Jeans,Bottoms,3,66.83,North,Summer,Credit Card,Regular,200.48
-2023-08-04,Dress,Dresses,3,84.68,East,Summer,Debit Card,Regular,254.03
-2023-09-01,Jacket,Outerwear,2,120.54,North,Fall,Paypal,Regular,241.07
-2023-12-27,Blouse,Tops,2,59.62,North,Winter,Debit Card,New,119.25
-2023-01-25,T-Shirt,Tops,4,27.41,North,Winter,Cash,Regular,109.62
-2023-07-12,Sweater,Tops,2,50.34,East,Summer,Paypal,Regular,100.67
-2023-02-23,Jacket,Outerwear,1,133.22,North,Winter,Cash,New,133.22
-2023-03-16,Shorts,Bottoms,4,39.6,West,Spring,Cash,Regular,158.39
-2023-07-09,Dress,Dresses,1,79.99,West,Summer,Cash,New,79.99
-2023-01-13,Shoes,Footwear,3,85.79,North,Winter,Paypal,Regular,257.38
-2023-07-28,Jacket,Outerwear,1,113.28,West,Summer,Debit Card,New,113.28
-2023-12-08,Jeans,Bottoms,2,56.83,West,Winter,Cash,Regular,113.66
-2023-02-20,Blouse,Tops,3,62.09,East,Winter,Cash,Regular,186.28
-2023-05-26,Jeans,Bottoms,4,57.06,South,Spring,Debit Card,Regular,228.23
-2023-08-04,Coat,Outerwear,2,141.0,West,Summer,Paypal,New,282.0
-2023-10-13,Coat,Outerwear,1,135.53,East,Fall,Debit Card,Regular,135.53
-2023-01-07,Shoes,Footwear,4,101.55,South,Winter,Cash,New,406.19
-2023-07-07,Jeans,Bottoms,2,60.4,West,Summer,Credit Card,New,120.79
-2023-04-09,Dress,Dresses,3,85.67,North,Spring,Cash,Regular,257.02
-2023-12-13,Coat,Outerwear,2,161.0,North,Winter,Debit Card,Regular,321.99
-2023-10-03,Shoes,Footwear,3,86.77,East,Fall,Paypal,Regular,260.3
-2023-05-23,Sweater,Tops,2,40.55,South,Spring,Debit Card,Regular,81.1
-2023-12-16,T-Shirt,Tops,2,26.94,South,Winter,Cash,Regular,53.88
-2023-03-01,Shoes,Footwear,4,102.2,South,Spring,Debit Card,New,408.82
-2023-10-28,Jacket,Outerwear,2,125.36,West,Fall,Cash,Regular,250.73
-2023-08-13,T-Shirt,Tops,2,28.57,North,Summer,Cash,New,57.14
-2023-11-18,Sweater,Tops,3,46.08,North,Fall,Debit Card,Regular,138.23
-2023-03-26,Jeans,Bottoms,4,54.58,East,Spring,Debit Card,Regular,218.3
-2023-10-22,T-Shirt,Tops,3,21.6,South,Fall,Credit Card,Regular,64.8
-2023-02-17,Sweater,Tops,3,47.69,West,Winter,Credit Card,Regular,143.07
-2023-07-12,Dress,Dresses,3,75.72,South,Summer,Cash,Regular,227.15
-2023-10-21,Dress,Dresses,4,87.32,North,Fall,Cash,Regular,349.29
-2023-07-08,Jeans,Bottoms,1,66.29,North,Summer,Debit Card,Regular,66.29
-2023-10-14,Skirt,Bottoms,1,41.45,East,Fall,Credit Card,Regular,41.45
-2023-04-25,T-Shirt,Tops,2,25.97,South,Spring,Credit Card,Regular,51.94
-2023-01-04,T-Shirt,Tops,2,25.07,East,Winter,Paypal,Regular,50.13
-2023-12-03,Sweater,Tops,1,43.58,West,Winter,Debit Card,Regular,43.58
-2023-06-11,Shorts,Bottoms,4,31.14,East,Summer,Credit Card,Regular,124.55
-2023-06-15,Jacket,Outerwear,4,110.65,North,Summer,Paypal,New,442.61
-2023-12-21,Jeans,Bottoms,4,54.8,North,Winter,Paypal,Regular,219.2
-2023-04-09,Coat,Outerwear,3,132.77,North,Spring,Cash,Regular,398.32
-2023-09-21,Shorts,Bottoms,4,32.81,North,Fall,Paypal,Regular,131.22
-2023-07-06,Skirt,Bottoms,1,37.79,South,Summer,Credit Card,Regular,37.79
-2023-09-21,Coat,Outerwear,4,158.05,West,Fall,Paypal,Regular,632.18
-2023-07-04,Jeans,Bottoms,3,64.4,East,Summer,Paypal,Regular,193.2
-2023-09-04,Blouse,Tops,1,59.55,East,Fall,Credit Card,Regular,59.55
-2023-01-11,Jacket,Outerwear,3,112.18,South,Winter,Credit Card,Regular,336.53
-2023-06-23,Skirt,Bottoms,3,37.74,South,Summer,Credit Card,New,113.21
-2023-01-12,Jeans,Bottoms,1,63.38,East,Winter,Paypal,Regular,63.38
-2023-01-27,Jacket,Outerwear,3,105.88,West,Winter,Paypal,Regular,317.63
-2023-07-06,Shoes,Footwear,1,82.87,North,Summer,Debit Card,New,82.87
-2023-07-14,Sweater,Tops,4,49.3,East,Summer,Debit Card,Regular,197.21
-2023-12-28,Skirt,Bottoms,3,35.86,West,Winter,Debit Card,New,107.59
-2023-01-24,T-Shirt,Tops,4,22.47,West,Winter,Debit Card,Regular,89.87
-2023-04-22,Coat,Outerwear,3,150.7,North,Spring,Paypal,Regular,452.11
-2023-03-13,Jeans,Bottoms,2,55.23,North,Spring,Cash,New,110.47
-2023-02-16,T-Shirt,Tops,2,26.29,West,Winter,Paypal,New,52.58
-2023-10-28,Sweater,Tops,1,38.32,South,Fall,Cash,Regular,38.32
-2023-05-18,Shorts,Bottoms,3,32.01,North,Spring,Cash,New,96.04
-2023-10-22,Sweater,Tops,2,45.16,North,Fall,Cash,Regular,90.33
-2023-04-06,Jacket,Outerwear,3,109.28,West,Spring,Credit Card,Regular,327.84
-2023-02-21,T-Shirt,Tops,3,22.4,West,Winter,Debit Card,Regular,67.2
-2023-07-14,Dress,Dresses,3,83.22,South,Summer,Cash,Regular,249.65
-2023-07-06,Skirt,Bottoms,3,37.17,North,Summer,Debit Card,Regular,111.5
-2023-09-09,Shorts,Bottoms,2,31.51,North,Fall,Debit Card,New,63.03
-2023-01-03,Coat,Outerwear,2,160.14,South,Winter,Credit Card,Regular,320.27
-2023-10-27,Coat,Outerwear,2,150.6,West,Fall,Cash,Regular,301.21
-2023-10-25,T-Shirt,Tops,3,25.72,South,Fall,Debit Card,Regular,77.15
-2023-03-04,Coat,Outerwear,2,143.01,North,Spring,Cash,Regular,286.02
-2023-08-28,Coat,Outerwear,4,155.93,South,Summer,Cash,New,623.73
-2023-07-22,Blouse,Tops,3,51.21,West,Summer,Debit Card,Regular,153.64
-2023-01-23,Coat,Outerwear,4,168.14,North,Winter,Debit Card,Regular,672.54
-2023-12-18,Jeans,Bottoms,3,65.55,North,Winter,Debit Card,Regular,196.66
-2023-06-07,Blouse,Tops,2,50.71,South,Summer,Cash,Regular,101.41
-2023-12-13,T-Shirt,Tops,4,21.54,South,Winter,Cash,Regular,86.17
-2023-10-26,T-Shirt,Tops,2,23.66,North,Fall,Cash,New,47.33
-2023-11-22,Dress,Dresses,3,69.87,North,Fall,Cash,New,209.62
-2023-10-01,T-Shirt,Tops,3,22.97,East,Fall,Debit Card,Regular,68.92
-2023-01-28,Blouse,Tops,2,54.44,West,Winter,Credit Card,Regular,108.87
-2023-05-15,Skirt,Bottoms,4,37.75,South,Spring,Paypal,New,151.01
-2023-07-06,Jeans,Bottoms,1,51.63,East,Summer,Paypal,New,51.63
-2023-11-27,Blouse,Tops,4,49.74,East,Fall,Cash,Regular,198.96
-2023-01-01,Sweater,Tops,4,49.34,West,Winter,Credit Card,Regular,197.37
-2023-12-13,Jeans,Bottoms,3,54.82,East,Winter,Cash,Regular,164.47
-2023-06-05,Blouse,Tops,1,61.85,North,Summer,Cash,Regular,61.85
-2023-07-16,T-Shirt,Tops,3,22.43,North,Summer,Paypal,New,67.29
-2023-06-27,Dress,Dresses,2,71.29,West,Summer,Cash,Regular,142.58
-2023-05-25,T-Shirt,Tops,4,25.1,North,Spring,Debit Card,Regular,100.41
-2023-12-11,Jeans,Bottoms,2,64.01,South,Winter,Paypal,New,128.02
-2023-09-06,T-Shirt,Tops,3,28.68,South,Fall,Cash,Regular,86.04
+2023-03-14,T-Shirt,Tops,3,25.07,West,Spring,Debit Card,Regular,75.22
+2023-07-28,Jacket,Outerwear,4,135.45,North,Summer,Paypal,Regular,541.81
+2023-09-08,Blouse,Tops,3,49.98,South,Fall,Cash,Regular,149.95
+2023-06-07,Shorts,Bottoms,4,36.93,South,Summer,Cash,Regular,147.71
+2023-12-27,Dress,Dresses,4,73.38,East,Winter,Cash,Regular,293.5
+2023-12-08,Shoes,Footwear,4,87.85,South,Winter,Credit Card,Regular,351.41
+2023-08-25,Dress,Dresses,1,72.41,North,Summer,Debit Card,Regular,72.41
+2023-09-28,Jeans,Bottoms,2,57.09,South,Fall,Cash,Regular,114.18
+2023-05-08,Shoes,Footwear,3,88.9,East,Spring,Paypal,Regular,266.69
+2023-09-15,Jeans,Bottoms,2,62.16,East,Fall,Paypal,New,124.31
+2023-03-25,Coat,Outerwear,1,155.86,West,Spring,Cash,Regular,155.86
+2023-05-15,Coat,Outerwear,3,156.15,East,Spring,Paypal,Regular,468.44
+2023-11-20,Coat,Outerwear,4,130.76,West,Fall,Cash,Regular,523.04
+2023-11-27,Dress,Dresses,4,69.17,East,Fall,Cash,New,276.7
+2023-07-02,Jacket,Outerwear,3,104.76,West,Summer,Debit Card,New,314.29
+2023-06-11,Shorts,Bottoms,2,33.85,West,Summer,Cash,Regular,67.7
+2023-08-21,Skirt,Bottoms,1,38.97,East,Summer,Paypal,New,38.97
+2023-08-27,Blouse,Tops,4,55.15,North,Summer,Credit Card,New,220.62
+2023-01-02,Jeans,Bottoms,4,68.37,South,Winter,Debit Card,Regular,273.49
+2023-08-21,Jeans,Bottoms,2,58.73,South,Summer,Cash,New,117.45
+2023-05-28,Coat,Outerwear,4,146.49,East,Spring,Credit Card,Regular,585.94
+2023-10-18,T-Shirt,Tops,1,25.54,South,Fall,Credit Card,Regular,25.54
+2023-10-18,Sweater,Tops,3,47.69,West,Fall,Credit Card,Regular,143.06
+2023-11-21,Coat,Outerwear,1,135.18,North,Fall,Debit Card,Regular,135.18
+2023-02-22,Sweater,Tops,2,41.55,North,Winter,Paypal,Regular,83.1
+2023-03-06,Jacket,Outerwear,4,126.86,North,Spring,Debit Card,Regular,507.44
+2023-01-14,Jeans,Bottoms,4,65.33,East,Winter,Cash,Regular,261.31
+2023-02-01,Jeans,Bottoms,1,60.51,South,Winter,Cash,New,60.51
+2023-08-01,Blouse,Tops,3,60.91,East,Summer,Paypal,Regular,182.74
+2023-05-25,Jeans,Bottoms,4,62.5,East,Spring,Credit Card,New,249.98
+2023-07-07,T-Shirt,Tops,3,26.11,East,Summer,Cash,Regular,78.34
+2023-04-08,Skirt,Bottoms,1,40.34,South,Spring,Paypal,Regular,40.34
+2023-10-19,T-Shirt,Tops,2,26.49,South,Fall,Cash,Regular,52.98
+2023-09-17,Skirt,Bottoms,4,41.48,East,Fall,Credit Card,Regular,165.91
+2023-12-28,Jeans,Bottoms,3,68.78,East,Winter,Paypal,Regular,206.33
+2023-07-18,Jeans,Bottoms,4,53.24,East,Summer,Paypal,Regular,212.98
+2023-10-19,Sweater,Tops,2,47.83,South,Fall,Cash,Regular,95.66
+2023-05-05,Shorts,Bottoms,3,35.45,North,Spring,Cash,New,106.36
+2023-05-24,Blouse,Tops,4,54.98,West,Spring,Debit Card,Regular,219.93
+2023-01-26,Sweater,Tops,4,44.69,South,Winter,Paypal,Regular,178.74
+2023-10-21,Jeans,Bottoms,4,68.35,North,Fall,Credit Card,New,273.41
+2023-07-20,Jacket,Outerwear,4,118.62,East,Summer,Paypal,Regular,474.47
+2023-07-20,Shorts,Bottoms,2,31.37,North,Summer,Debit Card,Regular,62.74
+2023-06-18,Shorts,Bottoms,4,39.89,East,Summer,Cash,Regular,159.56
+2023-08-21,Blouse,Tops,2,55.2,West,Summer,Paypal,New,110.4
+2023-10-03,Skirt,Bottoms,4,43.84,South,Fall,Paypal,Regular,175.35
+2023-10-03,Coat,Outerwear,2,128.16,South,Fall,Cash,New,256.32
+2023-01-19,Shoes,Footwear,1,99.21,West,Winter,Credit Card,Regular,99.21
+2023-06-04,Shoes,Footwear,1,98.66,South,Summer,Debit Card,Regular,98.66
+2023-09-27,Blouse,Tops,4,51.0,South,Fall,Debit Card,Regular,204.02
+2023-03-10,Skirt,Bottoms,4,40.33,South,Spring,Debit Card,Regular,161.33
+2023-05-18,Coat,Outerwear,2,136.63,South,Spring,Cash,New,273.27
+2023-05-02,Jeans,Bottoms,3,63.58,East,Spring,Paypal,New,190.75
+2023-12-03,T-Shirt,Tops,3,26.72,West,Winter,Credit Card,Regular,80.16
+2023-02-06,Jeans,Bottoms,2,65.46,South,Winter,Debit Card,Regular,130.91
+2023-06-21,Coat,Outerwear,1,170.45,East,Summer,Debit Card,Regular,170.45
+2023-03-13,Sweater,Tops,3,41.62,South,Spring,Paypal,Regular,124.86
+2023-12-25,Sweater,Tops,4,49.62,North,Winter,Paypal,New,198.5
+2023-01-21,Shorts,Bottoms,1,32.57,East,Winter,Debit Card,Regular,32.57
+2023-09-18,Shorts,Bottoms,4,37.2,East,Fall,Credit Card,Regular,148.79
+2023-08-13,Shorts,Bottoms,1,33.18,East,Summer,Cash,Regular,33.18
+2023-02-27,Coat,Outerwear,3,165.29,West,Winter,Debit Card,Regular,495.86
+2023-09-21,Blouse,Tops,3,55.82,North,Fall,Cash,New,167.47
+2023-06-27,Blouse,Tops,2,60.46,West,Summer,Paypal,Regular,120.93
+2023-04-24,Jeans,Bottoms,3,54.08,South,Spring,Credit Card,New,162.24
+2023-06-24,Shorts,Bottoms,3,32.53,West,Summer,Paypal,Regular,97.59
+2023-04-16,Dress,Dresses,1,88.02,South,Spring,Cash,Regular,88.02
+2023-04-07,Jacket,Outerwear,2,133.67,South,Spring,Debit Card,New,267.33
+2023-02-04,Shorts,Bottoms,3,34.69,North,Winter,Credit Card,Regular,104.06
+2023-08-02,Jeans,Bottoms,3,68.98,East,Summer,Credit Card,Regular,206.93
+2023-12-02,T-Shirt,Tops,1,26.54,East,Winter,Cash,New,26.54
+2023-10-16,Jeans,Bottoms,2,60.08,West,Fall,Paypal,New,120.16
+2023-03-09,Sweater,Tops,3,47.13,West,Spring,Cash,Regular,141.38
+2023-04-09,T-Shirt,Tops,2,22.0,South,Spring,Cash,Regular,44.0
+2023-02-03,T-Shirt,Tops,4,23.93,North,Winter,Credit Card,Regular,95.72
+2023-10-07,Skirt,Bottoms,4,41.72,South,Fall,Cash,Regular,166.89
+2023-11-24,Blouse,Tops,3,53.29,East,Fall,Cash,Regular,159.88
+2023-10-04,Dress,Dresses,3,70.06,West,Fall,Paypal,Regular,210.18
+2023-12-12,Shorts,Bottoms,2,35.49,West,Winter,Debit Card,Regular,70.98
+2023-12-06,Jeans,Bottoms,2,61.43,West,Winter,Debit Card,Regular,122.85
+2023-09-13,Jeans,Bottoms,4,57.96,West,Fall,Paypal,Regular,231.85
+2023-01-13,Coat,Outerwear,4,158.73,South,Winter,Paypal,Regular,634.9
+2023-05-24,Sweater,Tops,1,47.51,West,Spring,Credit Card,Regular,47.51
+2023-10-27,Shorts,Bottoms,4,30.18,South,Fall,Cash,New,120.72
+2023-04-19,Shorts,Bottoms,4,38.51,North,Spring,Cash,New,154.03
+2023-05-03,Jacket,Outerwear,2,119.02,West,Spring,Cash,New,238.03
+2023-08-27,Shoes,Footwear,4,90.38,North,Summer,Credit Card,New,361.53
+2023-08-23,Jacket,Outerwear,4,137.4,North,Summer,Cash,Regular,549.6
+2023-12-21,Dress,Dresses,3,84.66,West,Winter,Cash,Regular,253.99
+2023-11-13,Skirt,Bottoms,4,42.42,East,Fall,Paypal,Regular,169.68
+2023-01-24,Jeans,Bottoms,2,59.83,South,Winter,Debit Card,Regular,119.66
+2023-09-12,T-Shirt,Tops,2,27.5,North,Fall,Credit Card,Regular,55.0
+2023-05-28,Sweater,Tops,2,46.25,North,Spring,Paypal,New,92.5
+2023-02-25,Jeans,Bottoms,1,62.69,East,Winter,Credit Card,Regular,62.69
+2023-03-06,Dress,Dresses,4,86.92,North,Spring,Debit Card,Regular,347.67
+2023-07-28,Shoes,Footwear,1,101.57,North,Summer,Debit Card,New,101.57
+2023-06-01,Dress,Dresses,4,81.68,South,Summer,Cash,Regular,326.7
+2023-12-06,Skirt,Bottoms,4,42.91,West,Winter,Debit Card,New,171.65
+2023-06-03,T-Shirt,Tops,4,24.05,West,Summer,Paypal,New,96.2
+2023-07-04,Blouse,Tops,4,47.02,West,Summer,Credit Card,Regular,188.08
+2023-02-25,Blouse,Tops,1,48.68,East,Winter,Credit Card,Regular,48.68
+2023-04-01,Shoes,Footwear,3,80.94,East,Spring,Paypal,Regular,242.81
+2023-10-12,Coat,Outerwear,3,164.6,East,Fall,Paypal,Regular,493.81
+2023-07-04,Skirt,Bottoms,2,38.95,North,Summer,Debit Card,Regular,77.91
+2023-12-24,Dress,Dresses,2,85.29,West,Winter,Credit Card,Regular,170.58
+2023-12-12,Jeans,Bottoms,2,67.77,East,Winter,Debit Card,New,135.53
+2023-04-02,Jacket,Outerwear,1,137.73,North,Spring,Cash,Regular,137.73
+2023-01-14,T-Shirt,Tops,2,26.41,West,Winter,Paypal,New,52.82
+2023-10-20,Shoes,Footwear,4,81.06,North,Fall,Paypal,Regular,324.25
+2023-04-12,Sweater,Tops,2,46.98,South,Spring,Paypal,Regular,93.97
+2023-06-11,Shoes,Footwear,1,96.46,West,Summer,Credit Card,Regular,96.46
+2023-07-15,T-Shirt,Tops,3,22.1,East,Summer,Credit Card,New,66.3
+2023-09-14,Shoes,Footwear,2,86.65,North,Fall,Debit Card,New,173.3
+2023-07-12,Jeans,Bottoms,2,58.05,South,Summer,Credit Card,New,116.1
+2023-12-23,Sweater,Tops,2,42.43,East,Winter,Cash,Regular,84.86
+2023-10-11,Shorts,Bottoms,4,30.22,East,Fall,Paypal,Regular,120.87
+2023-08-26,Sweater,Tops,4,47.24,West,Summer,Cash,New,188.95
+2023-03-13,T-Shirt,Tops,1,22.25,East,Spring,Credit Card,Regular,22.25
+2023-09-04,Sweater,Tops,1,43.01,North,Fall,Debit Card,Regular,43.01
+2023-03-10,Dress,Dresses,4,72.31,West,Spring,Credit Card,Regular,289.25
+2023-07-23,T-Shirt,Tops,1,27.67,West,Summer,Cash,Regular,27.67
+2023-07-01,Dress,Dresses,2,68.75,West,Summer,Debit Card,New,137.5
+2023-02-02,Sweater,Tops,3,38.68,West,Winter,Paypal,Regular,116.05
+2023-11-03,T-Shirt,Tops,4,28.28,East,Fall,Credit Card,Regular,113.12
+2023-09-25,T-Shirt,Tops,3,24.32,South,Fall,Paypal,New,72.95
+2023-05-25,Jeans,Bottoms,4,51.33,South,Spring,Cash,Regular,205.32
+2023-02-26,Shoes,Footwear,3,80.84,South,Winter,Debit Card,New,242.51
+2023-02-07,T-Shirt,Tops,3,23.4,East,Winter,Credit Card,New,70.2
+2023-11-03,Shoes,Footwear,4,89.91,South,Fall,Paypal,Regular,359.62
+2023-04-25,Jeans,Bottoms,3,66.99,North,Spring,Paypal,New,200.96
+2023-01-02,Jeans,Bottoms,4,53.83,East,Winter,Cash,New,215.3
+2023-07-15,Dress,Dresses,2,80.02,South,Summer,Credit Card,Regular,160.04
+2023-10-27,Blouse,Tops,3,56.65,South,Fall,Paypal,Regular,169.94
+2023-10-07,Coat,Outerwear,3,130.95,East,Fall,Credit Card,Regular,392.86
+2023-09-04,Coat,Outerwear,2,167.24,West,Fall,Paypal,New,334.47
+2023-05-18,Jacket,Outerwear,3,105.21,East,Spring,Debit Card,Regular,315.64
+2023-04-28,Dress,Dresses,1,72.34,West,Spring,Debit Card,Regular,72.34
+2023-11-17,Shoes,Footwear,4,82.14,West,Fall,Cash,Regular,328.54
+2023-04-12,Sweater,Tops,2,47.67,East,Spring,Paypal,Regular,95.34
+2023-02-18,Skirt,Bottoms,1,37.21,North,Winter,Paypal,Regular,37.21
+2023-07-14,Shorts,Bottoms,4,29.88,East,Summer,Cash,New,119.5
+2023-01-04,Skirt,Bottoms,3,37.79,West,Winter,Credit Card,Regular,113.36
+2023-03-23,T-Shirt,Tops,3,25.6,North,Spring,Cash,New,76.8
+2023-10-15,Shorts,Bottoms,3,33.8,West,Fall,Paypal,Regular,101.39
+2023-02-09,T-Shirt,Tops,2,24.92,North,Winter,Debit Card,New,49.84
+2023-05-25,Jacket,Outerwear,3,136.21,North,Spring,Debit Card,New,408.63
+2023-03-27,T-Shirt,Tops,2,23.51,West,Spring,Credit Card,Regular,47.03
+2023-10-16,Dress,Dresses,4,68.53,North,Fall,Cash,Regular,274.12
+2023-10-27,Dress,Dresses,3,84.82,South,Fall,Paypal,Regular,254.46
+2023-07-07,Jacket,Outerwear,4,113.22,West,Summer,Cash,New,452.89
+2023-10-17,Shorts,Bottoms,1,34.58,North,Fall,Credit Card,Regular,34.58
+2023-02-23,Coat,Outerwear,3,169.62,East,Winter,Credit Card,Regular,508.85
+2023-07-28,Blouse,Tops,3,48.81,North,Summer,Paypal,Regular,146.44
+2023-02-03,Jeans,Bottoms,3,65.93,West,Winter,Paypal,Regular,197.78
+2023-02-17,Jeans,Bottoms,3,68.86,South,Winter,Paypal,Regular,206.59
+2023-10-10,Jeans,Bottoms,2,58.59,North,Fall,Debit Card,Regular,117.19
+2023-10-19,T-Shirt,Tops,4,23.6,South,Fall,Cash,New,94.4
+2023-05-16,Sweater,Tops,1,41.17,South,Spring,Credit Card,New,41.17
+2023-10-14,Dress,Dresses,3,83.44,North,Fall,Cash,New,250.31
+2023-12-24,Jacket,Outerwear,4,125.93,South,Winter,Debit Card,Regular,503.73
+2023-05-23,Jeans,Bottoms,4,55.08,South,Spring,Debit Card,Regular,220.34
+2023-09-21,Jacket,Outerwear,1,127.01,East,Fall,Credit Card,New,127.01
+2023-07-15,Jacket,Outerwear,4,128.82,North,Summer,Paypal,Regular,515.29
+2023-02-18,Dress,Dresses,2,87.32,West,Winter,Debit Card,Regular,174.64
+2023-03-15,Jacket,Outerwear,4,123.22,South,Spring,Credit Card,Regular,492.88
+2023-07-04,T-Shirt,Tops,4,21.77,West,Summer,Cash,Regular,87.06
+2023-03-21,Blouse,Tops,3,47.53,North,Spring,Paypal,Regular,142.59
+2023-04-10,Sweater,Tops,2,43.07,West,Spring,Credit Card,Regular,86.15
+2023-02-24,Sweater,Tops,4,46.81,East,Winter,Debit Card,New,187.24
+2023-10-17,Shoes,Footwear,2,91.33,North,Fall,Paypal,New,182.66
+2023-05-24,Shorts,Bottoms,1,33.34,East,Spring,Credit Card,New,33.34
+2023-07-26,T-Shirt,Tops,1,24.92,West,Summer,Cash,Regular,24.92
+2023-04-05,Dress,Dresses,2,85.64,West,Spring,Cash,Regular,171.28
+2023-05-19,T-Shirt,Tops,3,23.84,North,Spring,Paypal,New,71.52
+2023-02-28,Jeans,Bottoms,1,66.06,West,Winter,Debit Card,New,66.06
+2023-05-19,Jacket,Outerwear,4,128.73,East,Spring,Paypal,Regular,514.92
+2023-02-13,Shorts,Bottoms,3,36.23,East,Winter,Credit Card,Regular,108.7
+2023-12-24,Jacket,Outerwear,2,109.15,East,Winter,Debit Card,Regular,218.3
+2023-12-15,Sweater,Tops,3,44.75,North,Winter,Cash,Regular,134.24
+2023-05-14,Dress,Dresses,4,91.54,West,Spring,Cash,New,366.16
+2023-06-02,Dress,Dresses,4,71.44,West,Summer,Debit Card,New,285.74
+2023-03-17,T-Shirt,Tops,3,23.29,South,Spring,Paypal,Regular,69.86
+2023-10-27,Sweater,Tops,1,40.13,North,Fall,Credit Card,Regular,40.13
+2023-07-04,Jeans,Bottoms,2,67.38,South,Summer,Cash,Regular,134.76
+2023-02-11,Skirt,Bottoms,2,38.4,North,Winter,Cash,Regular,76.79
+2023-01-25,Coat,Outerwear,2,128.66,South,Winter,Debit Card,New,257.32
+2023-01-23,Dress,Dresses,1,81.55,North,Winter,Credit Card,Regular,81.55
+2023-01-12,Dress,Dresses,1,74.49,West,Winter,Debit Card,New,74.49
+2023-11-19,Skirt,Bottoms,4,44.2,East,Fall,Cash,New,176.79
+2023-11-17,Blouse,Tops,1,47.58,East,Fall,Paypal,Regular,47.58
+2023-10-16,Coat,Outerwear,3,155.81,South,Fall,Paypal,New,467.44
+2023-02-25,T-Shirt,Tops,2,23.73,South,Winter,Debit Card,New,47.46
+2023-02-15,Jeans,Bottoms,4,60.76,West,Winter,Debit Card,Regular,243.05
+2023-04-13,Coat,Outerwear,1,170.98,South,Spring,Credit Card,New,170.98
+2023-01-19,Coat,Outerwear,3,164.45,East,Winter,Credit Card,New,493.35
+2023-08-05,Dress,Dresses,2,79.27,South,Summer,Debit Card,Regular,158.53
+2023-05-20,Jacket,Outerwear,2,129.49,South,Spring,Credit Card,Regular,258.99
+2023-05-14,T-Shirt,Tops,3,23.25,West,Spring,Paypal,Regular,69.75
+2023-12-10,Jeans,Bottoms,4,65.74,South,Winter,Cash,New,262.95
+2023-04-08,Skirt,Bottoms,1,34.68,West,Spring,Cash,New,34.68
